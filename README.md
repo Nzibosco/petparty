@@ -36,4 +36,5 @@ Google Calendar Link,
 
 Google Maps Link
 
-### _Heroku Deployment Link
+## follow the link below to demo the application on Heroku
+[Heroku Link](https://petpartyaba.herokuapp.com/)
